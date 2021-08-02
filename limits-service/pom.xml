@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>com.study.micro-services</groupId>
+    <artifactId>micro-services</artifactId>
+    <version>1.0</version>
+  </parent>
+  <groupId>com.study.micro-services.limits-service</groupId>
+  <artifactId>limits-service</artifactId>
+  <packaging>war</packaging>
+  <name>limits-service</name>
+  <description>limits-service</description>
+</project>
