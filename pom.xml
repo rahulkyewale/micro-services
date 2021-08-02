@@ -55,5 +55,6 @@
 	</build>
 	<modules>
 		<module>limits-service</module>
+		<module>spring-cloud-config-server</module>
 	</modules>
 </project>
